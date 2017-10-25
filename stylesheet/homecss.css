@@ -1,0 +1,12 @@
+.imgpos{
+    width: 19%;
+    align-content: center;
+    float: left;
+    margin: 2px;
+    padding: 2px;
+    background-color: #fff;
+}
+.icon{
+    text-align: center;
+    padding: 10px;
+}
